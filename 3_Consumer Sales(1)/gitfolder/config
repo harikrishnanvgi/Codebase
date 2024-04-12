@@ -1,0 +1,12 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[branch "master"]
+	metaData = {appId:c09d83e2-e91c-45f7-ac1f-e79d46855277,serverId:1,streamId:Work,parentBranchName:null,userId:1}
+[user]
+	email = admin@senseops.com
+	name = harikrishnanv
